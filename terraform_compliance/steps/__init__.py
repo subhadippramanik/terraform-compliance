@@ -30,7 +30,8 @@ untaggable_resources = [
     "null_resource",
     "random_string",
     "aws_lb_listener",
-    "aws_s3_bucket_policy"
+    "aws_s3_bucket_policy",
+    "vault_generic_secret"
 ]
 
 encryption_property = {
